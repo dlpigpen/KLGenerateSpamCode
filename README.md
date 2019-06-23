@@ -44,5 +44,6 @@ $ ./GenerateSpamCode \
 5. 用别的电脑打包
 
 ## 已知问题
+https://programmer.group/5c16a16835273.html
 - 生成的垃圾代码文件可能是 .m 文件中实现的私有类，编译垃圾代码可能会报错，删除该垃圾代码 .h .m 文件及可。
 
